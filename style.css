@@ -1,0 +1,22 @@
+body {
+  overflow-x: hidden;
+  font-family: Gill Sans, Verdana;
+  font-size: 11px;
+  line-height: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+#brand {
+  font-family: oswald;
+  font-size: 50px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1;
+  margin-right: 20px;
+}
+
+img:hover {
+  transform: scale(1.01);
+}
